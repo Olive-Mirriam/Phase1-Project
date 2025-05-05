@@ -48,7 +48,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 ```python
-df = pd.read_csv('data/Aviation_Data.csv',low_memory = False)
+df = pd.read_csv('Aviation_Data.csv',low_memory = False)
 ```
 🧭 Data Exploration
 This helps us understand the structure and content of the dataset. In this section, we will check the first few rows, summarize statistics and explore the presence of any missing values
